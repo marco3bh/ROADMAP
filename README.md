@@ -43,10 +43,7 @@ A collection of what I've studied, practiced and learned.
 
 ## 06 — SECURITY
 
-`Web Security` &nbsp;&nbsp; `OWASP Top 10` &nbsp;&nbsp; `Reconnaissance`  
-`Penetration Testing` &nbsp;&nbsp; `API Security` &nbsp;&nbsp; `Privilege Escalation`  
-`Active Directory` &nbsp;&nbsp; `Vulnerability Assessment`
-
+`-` 
 <br>
 
 ---
