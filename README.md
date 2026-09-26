@@ -24,7 +24,7 @@ A collection of what I've studied, practiced and learned.
 ## 03 — WEB
 
 `HTML` &nbsp;&nbsp; `CSS` &nbsp;&nbsp; `JavaScript` &nbsp;&nbsp; `HTTP / HTTPS`  
-`Cookies` &nbsp;&nbsp; `Sessions` &nbsp;&nbsp; `Authentication` &nbsp;&nbsp; `APIs`
+`Cookies` &nbsp;&nbsp; `Sessions` &nbsp;&nbsp; `Authentication` &nbsp;&nbsp; `Authorization` &nbsp;&nbsp; `APIs`
 
 <br>
 
