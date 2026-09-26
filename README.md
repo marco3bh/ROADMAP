@@ -47,9 +47,10 @@ A collection of what I've studied, practiced and learned.
 
 <br>
 
-## 07 — SECURITY
+## 07 — WEB SECURITY
 
-`-` 
+`SQL Injection` &nbsp;&nbsp; `XSS` &nbsp;&nbsp; `Authentication Bypass` &nbsp;&nbsp; 
+
 <br>
 
 ---
