@@ -36,7 +36,7 @@ A collection of what I've studied, practiced and learned.
 
 ## 05 - NETWORKING
 
-`TCP/IP` &nbsp;&nbsp; `UDP` &nbsp;&nbsp; `IPv4` &nbsp;&nbsp; `IPv6` &nbsp;&nbsp; `DNS` &nbsp;&nbsp; `NAT` &nbsp;&nbsp; `Proxying` &nbsp;&nbsp; `Tunneling` &nbsp;&nbsp; `FTP`
+`TCP/IP` &nbsp;&nbsp; `UDP` &nbsp;&nbsp; `IPv4` &nbsp;&nbsp; `IPv6` &nbsp;&nbsp; `DNS` &nbsp;&nbsp; `NAT` &nbsp;&nbsp; `Proxying` &nbsp;&nbsp; `Tunneling` &nbsp;&nbsp; `FTP` &nbsp;&nbsp; `SSH`
 
 <br>
 
