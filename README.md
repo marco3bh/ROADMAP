@@ -43,7 +43,7 @@ A collection of what I've studied, practiced and learned.
 ## 06 — TOOLS
 
 `Burp Suite` &nbsp;&nbsp; `Nmap` &nbsp;&nbsp; `Wireshark` &nbsp;&nbsp; `Git`  
-`Docker` &nbsp;&nbsp; `Metasploit`
+`Docker` &nbsp;&nbsp; `Metasploit` &nbsp;&nbsp; `ffuf` &nbsp;&nbsp; `Gobuster` &nbsp;&nbsp; `Netcat` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `Hydra` &nbsp;&nbsp; `Ghidra` &nbsp;&nbsp; `John the Ripper` &nbsp;&nbsp; `SQLmap` &nbsp;&nbsp; 
 
 <br>
 
