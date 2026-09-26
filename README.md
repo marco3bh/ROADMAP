@@ -10,7 +10,7 @@ A collection of what I've studied, practiced and learned.
 
 ## 01 — LANGUAGES
 
-`Python` &nbsp;&nbsp; `Java` &nbsp;&nbsp; `C++` &nbsp;&nbsp; `c+`&nbsp;&nbsp; `Lua` &nbsp;&nbsp; `JavaScript`
+`Python` &nbsp;&nbsp; `Java` &nbsp;&nbsp; `C++` &nbsp;&nbsp; `c` &nbsp;&nbsp; `Lua` &nbsp;&nbsp; `JavaScript`
 
 <br>
 
