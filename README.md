@@ -30,7 +30,7 @@ A collection of what I've studied, practiced and learned.
 
 ## 04 — SYSTEMS
 
-`Linux` &nbsp;&nbsp; `Windows` &nbsp;&nbsp; `Networking` &nbsp;&nbsp; `Bash` &nbsp;&nbsp; `PowerShell` &nbsp;&nbsp; `System Administration` &nbsp;&nbsp; `Virtualization`
+`Linux` &nbsp;&nbsp; `Windows` &nbsp;&nbsp; `Networking` &nbsp;&nbsp; `Bash` &nbsp;&nbsp; `PowerShell` &nbsp;&nbsp; `System Administration` &nbsp;&nbsp; `Virtualization` &nbsp;&nbsp; `Permissions`
 
 <br>
 
