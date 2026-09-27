@@ -40,6 +40,12 @@ A collection of what I've studied, practiced and learned.
 
 <br>
 
+## 06 — RECONNAISSANCE
+
+`OSINT` &nbsp;&nbsp; `Subdomain Enumeration` &nbsp;&nbsp; `DNS Enumeration` &nbsp;&nbsp; `Fingerprinting` &nbsp;&nbsp; `Content Discovery`
+
+<br>
+
 ## 06 — TOOLS
 
 `Burp Suite` &nbsp;&nbsp; `Nmap` &nbsp;&nbsp; `Wireshark` &nbsp;&nbsp; `Git`  
