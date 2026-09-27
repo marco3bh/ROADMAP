@@ -10,14 +10,14 @@ A collection of what I've studied, practiced and learned.
 
 ## 01 — LANGUAGES
 
-`Python` &nbsp;&nbsp; `Java` &nbsp;&nbsp; `C++` &nbsp;&nbsp; `c` &nbsp;&nbsp; `Lua` &nbsp;&nbsp; `JavaScript` &nbsp;&nbsp; `Rust` &nbsp;&nbsp; `Bash`
+`Python` &nbsp;&nbsp; `Java` &nbsp;&nbsp; `C++` &nbsp;&nbsp; `c` &nbsp;&nbsp; `Lua` &nbsp;&nbsp; `JavaScript` &nbsp;&nbsp; `Rust` &nbsp;&nbsp; `Bash` &nbsp;&nbsp; `SQL`
 
 <br>
 
 ## 02 — PROGRAMMING
 
 `OOP` &nbsp;&nbsp; `Data Structures` &nbsp;&nbsp; `Algorithms` &nbsp;&nbsp; `REST APIs`  
-`Automation` &nbsp;&nbsp; `Scripting` &nbsp;&nbsp; `Git`
+`Automation` &nbsp;&nbsp; `Scripting` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `Debugging`
 
 <br>
 
