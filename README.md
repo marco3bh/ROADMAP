@@ -17,7 +17,7 @@ A collection of what I've studied, practiced and learned.
 ## 02 — PROGRAMMING
 
 `OOP` &nbsp;&nbsp; `Data Structures` &nbsp;&nbsp; `Algorithms` &nbsp;&nbsp; `REST APIs`  
-`Automation` &nbsp;&nbsp; `Scripting` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `Debugging`
+`Automation` &nbsp;&nbsp; `Scripting` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `Debugging` &nbsp;&nbsp; `Reverse Engineering`
 
 <br>
 
